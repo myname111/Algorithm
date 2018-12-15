@@ -38,7 +38,7 @@ public class QuickSort extends Example{
   }
 
     public static void main(String[] args) {
-        Integer[] arr = new Integer[]{10,5,10,13,14};
+        Integer[] arr = new Integer[]{1,3,3,2};
         print(arr);
         System.out.println("-------------------------");
         sort(arr);
