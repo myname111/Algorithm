@@ -11,6 +11,7 @@
     <modules>
         <module>chapter1-foundation-learn</module>
         <module>chapter2-sort</module>
+        <module>chapter3-search</module>
     </modules>
 
 

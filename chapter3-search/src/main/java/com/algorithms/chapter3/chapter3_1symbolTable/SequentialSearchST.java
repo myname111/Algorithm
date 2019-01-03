@@ -20,6 +20,7 @@ public class SequentialSearchST<Key,Value>{
        }
    }
    //设置
+   //如果没找到指定的key就在首节点的前面插入一个节点作为首节点
    public void put(Key key,Value value){
          if(key==null||value==null){
              return;
